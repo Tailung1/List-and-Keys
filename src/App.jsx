@@ -1,7 +1,7 @@
 import {useState } from 'react'
 
 import './App.css'
-import User from './assets/components/User';
+import User from './components/User';
 
 const users = [
     { id: 1, name: "Alice", age: 25 },
